@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/FCarter09/my-portfolio.git/static/css/main.7ca353f9.css",
-    "main.js": "/FCarter09/my-portfolio.git/static/js/main.2d2f27c4.js",
-    "static/js/787.128fc6e9.chunk.js": "/FCarter09/my-portfolio.git/static/js/787.128fc6e9.chunk.js",
-    "static/media/Forest_Carter_Resume-1.pdf": "/FCarter09/my-portfolio.git/static/media/Forest_Carter_Resume-1.fb3897fba9a7d0e80fab.pdf",
-    "static/media/media-shelf.jpg": "/FCarter09/my-portfolio.git/static/media/media-shelf.f63d9795b2a1e904fbb2.jpg",
-    "static/media/whats-cooking.jpg": "/FCarter09/my-portfolio.git/static/media/whats-cooking.460584db709ec4d6a197.jpg",
-    "static/media/pizza-hunt.jpg": "/FCarter09/my-portfolio.git/static/media/pizza-hunt.c148ea8fefd742442cad.jpg",
-    "static/media/note-taker.jpg": "/FCarter09/my-portfolio.git/static/media/note-taker.af83a80639c744d3eb89.jpg",
-    "static/media/taskmasterpro.jpg": "/FCarter09/my-portfolio.git/static/media/taskmasterpro.8eeccc4780fc01280069.jpg",
-    "static/media/workday-scheduler.jpg": "/FCarter09/my-portfolio.git/static/media/workday-scheduler.102a584b8a6b6c77e493.jpg",
-    "index.html": "/FCarter09/my-portfolio.git/index.html",
-    "main.7ca353f9.css.map": "/FCarter09/my-portfolio.git/static/css/main.7ca353f9.css.map",
-    "main.2d2f27c4.js.map": "/FCarter09/my-portfolio.git/static/js/main.2d2f27c4.js.map",
-    "787.128fc6e9.chunk.js.map": "/FCarter09/my-portfolio.git/static/js/787.128fc6e9.chunk.js.map"
+    "main.css": "/my-portfolio/static/css/main.7ca353f9.css",
+    "main.js": "/my-portfolio/static/js/main.b391a539.js",
+    "static/js/787.128fc6e9.chunk.js": "/my-portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/Forest_Carter_Resume-1.pdf": "/my-portfolio/static/media/Forest_Carter_Resume-1.fb3897fba9a7d0e80fab.pdf",
+    "static/media/media-shelf.jpg": "/my-portfolio/static/media/media-shelf.f63d9795b2a1e904fbb2.jpg",
+    "static/media/whats-cooking.jpg": "/my-portfolio/static/media/whats-cooking.460584db709ec4d6a197.jpg",
+    "static/media/pizza-hunt.jpg": "/my-portfolio/static/media/pizza-hunt.c148ea8fefd742442cad.jpg",
+    "static/media/note-taker.jpg": "/my-portfolio/static/media/note-taker.af83a80639c744d3eb89.jpg",
+    "static/media/taskmasterpro.jpg": "/my-portfolio/static/media/taskmasterpro.8eeccc4780fc01280069.jpg",
+    "static/media/workday-scheduler.jpg": "/my-portfolio/static/media/workday-scheduler.102a584b8a6b6c77e493.jpg",
+    "index.html": "/my-portfolio/index.html",
+    "main.7ca353f9.css.map": "/my-portfolio/static/css/main.7ca353f9.css.map",
+    "main.b391a539.js.map": "/my-portfolio/static/js/main.b391a539.js.map",
+    "787.128fc6e9.chunk.js.map": "/my-portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7ca353f9.css",
-    "static/js/main.2d2f27c4.js"
+    "static/js/main.b391a539.js"
   ]
 }
