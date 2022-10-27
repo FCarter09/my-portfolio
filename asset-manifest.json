@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.7ca353f9.css",
-    "main.js": "/my-portfolio/static/js/main.b391a539.js",
+    "main.css": "/my-portfolio/static/css/main.c02d5f6b.css",
+    "main.js": "/my-portfolio/static/js/main.cdc05742.js",
     "static/js/787.128fc6e9.chunk.js": "/my-portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/Forest_Carter_Resume-1.pdf": "/my-portfolio/static/media/Forest_Carter_Resume-1.fb3897fba9a7d0e80fab.pdf",
     "static/media/media-shelf.jpg": "/my-portfolio/static/media/media-shelf.f63d9795b2a1e904fbb2.jpg",
@@ -11,12 +11,12 @@
     "static/media/taskmasterpro.jpg": "/my-portfolio/static/media/taskmasterpro.8eeccc4780fc01280069.jpg",
     "static/media/workday-scheduler.jpg": "/my-portfolio/static/media/workday-scheduler.102a584b8a6b6c77e493.jpg",
     "index.html": "/my-portfolio/index.html",
-    "main.7ca353f9.css.map": "/my-portfolio/static/css/main.7ca353f9.css.map",
-    "main.b391a539.js.map": "/my-portfolio/static/js/main.b391a539.js.map",
+    "main.c02d5f6b.css.map": "/my-portfolio/static/css/main.c02d5f6b.css.map",
+    "main.cdc05742.js.map": "/my-portfolio/static/js/main.cdc05742.js.map",
     "787.128fc6e9.chunk.js.map": "/my-portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ca353f9.css",
-    "static/js/main.b391a539.js"
+    "static/css/main.c02d5f6b.css",
+    "static/js/main.cdc05742.js"
   ]
 }
