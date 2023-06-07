@@ -51,7 +51,7 @@ img:hover{
   margin-bottom: 20px
 }
 
-p{
+.about-me{
   display: flex;
   justify-content: center;
   align-items: center;

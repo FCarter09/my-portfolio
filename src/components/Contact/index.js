@@ -1,71 +1,27 @@
-import React, { useState } from 'react';
-import { validateEmail } from "../../helpers/helpers";
+
 import '../../App.css';
 import '../../index.css'
 
 function ContactForm() {
-    const [formState, setFormState] = useState({ name: '', email: '', message: '' });
-    
-    const [errorMessage, setErrorMessage] = useState();
-    const { name, email, message } = formState;
-    
-    function handleSubmit(e) {
-        e.preventDefault();
-        if (!errorMessage) {
-            setFormState({ [e.target.name]: e.target.value });
-            console.log('Form', formState);
-        } 
-        console.log('errorMessage', errorMessage);
-      };
-    
-
-    function handleChange(e) {
-        if (e.target.name === 'email') {
-            const isValid = validateEmail(e.target.value);
-            console.log(isValid);
-            // isValid conditional statement
-            if (!isValid) {
-                setErrorMessage('Your email is invalid.');
-              } else {
-                setErrorMessage('');
-              } 
-            } else {
-                if (!e.target.value.length) {
-                  setErrorMessage(`${e.target.name} is required.`);
-                } else {
-                  setErrorMessage('');
-                }
-              }
-              if (!errorMessage) {
-                setFormState({ ...formState, [e.target.name]: e.target.value });
-              }
-          }; 
 
     // JSX
     return (
         <section>
           <h1 class='page-header'>Contact me</h1>
-          <form id="contact-form" onSubmit={handleSubmit}  >
+          <form id="contact-form" >
            <div className="field">
-            <label  htmlFor="name">Name:</label>
-            <input type="text"  name="name" defaultValue={name} onBlur={handleChange} />
+            <label  htmlFor="name"> Phone:</label>
+            <p className='contact-info'>434-547-7528</p> 
            </div>
            <div className="field">
-            <label htmlFor="email">Email address:</label>
-            <input type="email" name="email" defaultValue={email} onBlur={handleChange}/>
+            <label htmlFor="email">Email Address:</label>
+            <p className='contact-info'>fc_vstate@yahoo.com</p> 
            </div>
            <div className="field">
-            <label htmlFor="message">Message:</label>
-            <textarea name="message"rows="5" defaultValue={message} onBlur={handleChange}  />
+            <label htmlFor="LinkedIn">My Profile:</label>
+            <a className='contact-info' href='https://www.linkedin.com/in/forest-carter-375a31257/'>Visit on LinkedIn</a>  
            </div>
-           {errorMessage && (
-            <div>
-                <p className="error-text">{errorMessage}</p>
-            </div>
-            )}
-            <div className="field">
-            <button class='button' type="submit">Submit</button>
-            </div>
+           
           </form>
         </section>
       );

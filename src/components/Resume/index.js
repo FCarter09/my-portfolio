@@ -31,6 +31,7 @@ function Resume() {
                 <li>MVC</li>
                 <li>MongoDB</li>
                 <li>React</li>
+                <li>MERN</li>
             </ul>
 
         </section>

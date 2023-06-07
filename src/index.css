@@ -94,40 +94,12 @@ form{
 }
 
 label{
+  color: bisque;
+  margin-right: 10px;
+}
+
+.contact-info {
   color: bisque
-}
-
-input {
-  font-size: 1rem;
-  padding: 0.25rem;
-  border: 1px solid var(--dark);
-  outline: none;
-  border-radius: 3px;
-  transition: box-shadow 0.2s;
-}
-
-input:focus {
-  border: 1px solid var(--secondary);
-  box-shadow: 0 0 .25rem rgba(0, 0, 0, .5);
-}
-
-
-.error-text{
-  padding-bottom:10px
-}
-
-button {
-	background: yellow;
-	border: 0;
-	border-radius: 5px;
-	color: rgb(24, 94, 119);
-	cursor: pointer;
-	font-size: 16px;
-	font-weight: 600;
-	margin-bottom: 30px;
-	padding: 10px 15px;	
-  
-  
 }
 
 @media screen and (max-width: 790px) {

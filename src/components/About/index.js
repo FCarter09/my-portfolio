@@ -13,7 +13,7 @@ function About() {
             <div>
                 <h1 className="userIcon"><FontAwesomeIcon icon={faUser} size="6x" style={{ color: 'white' }}/></h1>
             </div>
-            <p>
+            <p className='about-me'>
                 Hi, my name is Forest Carter. I am from Buckingham County, Virginia. 
                 I am currently working towards the goal of becoming a certified web developer. 
                 I am attending a coding bootcamp through the Richmond University to learn about web development and help prepare me for a career in the software development field. 
