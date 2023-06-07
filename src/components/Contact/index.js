@@ -1,6 +1,8 @@
 
 import '../../App.css';
-import '../../index.css'
+import '../../index.css';
+import '../../fontawesome';
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 function ContactForm() {
 
@@ -19,7 +21,7 @@ function ContactForm() {
            </div>
            <div className="field">
             <label htmlFor="LinkedIn">My Profile:</label>
-            <a className='contact-info' href='https://www.linkedin.com/in/forest-carter-375a31257/'>Visit on LinkedIn</a>  
+            <a className='contact-info' href='https://www.linkedin.com/in/forest-carter-375a31257/'><FontAwesomeIcon icon={['fab', 'linkedin']} alt='LinkedIn' /></a>  
            </div>
            
           </form>
