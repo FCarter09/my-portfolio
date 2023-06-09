@@ -9,6 +9,6 @@ and a resume section where my resume can be downloaded and my skills are highlig
 ## Link to App
 
 https://fcarter09.github.io/my-portfolio/
-<<<<<<< HEAD
+
 
 <---------------------------------------------------------------------------------------------------------------------->
